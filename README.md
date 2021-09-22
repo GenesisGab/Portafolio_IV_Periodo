@@ -13,10 +13,20 @@
 ------------
 ## Anteportada
 Colegio Santa Catalina de Laboure
+
+
 Génesis Gabriel Subuyuj Ramírez
+
+
 IV Bachillerato en Ciencias y Letras con Orientación en Computación
+
+
 Laboratorio 1
+
+
 Profesor Jossue Emmanuel Fuentes
+
+
 <a href="https://ibb.co/qdVMfh9"><img src="https://i.ibb.co/vHRxGfm/upsPng.png" alt="upsPng" border="0"></a>
 ## Índice
 - Portada
