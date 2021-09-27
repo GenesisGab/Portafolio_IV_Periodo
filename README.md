@@ -8,7 +8,7 @@
 </h3>
 
 ------------
-<img align="center"   src="https://i.pinimg.com/564x/c7/0d/e3/c70de3d4362ac2f12aeb1cd9c57b4246.jpg">
+<img align="center" src="https://i.pinimg.com/564x/c7/0d/e3/c70de3d4362ac2f12aeb1cd9c57b4246.jpg">
 
 ------------
 ## Anteportada
