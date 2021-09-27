@@ -48,6 +48,8 @@ Profesor Jossue Emmanuel Fuentes
 En este periodo se elaboro una aplicacion para telefono de School ERP,
 donde también le dimos soporte para desktop y tablet.
 
+https://genesisgab.github.io/Portafolio_IV_Periodo/
+
 ------------
 
 
