@@ -83,5 +83,3 @@ https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard
 |**Propósito**   | ...  |
 
 
-[========]
-
