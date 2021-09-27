@@ -50,6 +50,27 @@ donde también le dimos soporte para desktop y tablet.
 
 https://genesisgab.github.io/Portafolio_IV_Periodo/
 
+Portada ERP:
+
+https://genesisgab.github.io/Portafolio_IV_Periodo/index
+
+
+Login:
+
+https://genesisgab.github.io/Portafolio_IV_Periodo/login
+
+
+Login 0.2
+
+https://genesisgab.github.io/Portafolio_IV_Periodo/login_vDos
+
+Profile:
+
+https://genesisgab.github.io/Portafolio_IV_Periodo/profile
+
+Dashboard:
+
+https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard
 ------------
 
 
