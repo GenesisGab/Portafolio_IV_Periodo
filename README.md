@@ -1,4 +1,4 @@
-<img width="100px"  src="https://static.wixstatic.com/media/d1b317_30d85a06c73e4bc7bf0952829a1cddb1~mv1.png/v1/crop/x_0,y_4,w_775,h_349/fill/w_408,h_172,al_c,q_85,usm_0.66_1.00_0.01/d1b317_30d85a06c73e4bc7bf0952829a1cddb1~mv1.webp">
+ <img width="100px" src="https://static.wixstatic.com/media/d1b317_30d85a06c73e4bc7bf0952829a1cddb1~mv1.png/v1/crop/x_0,y_4,w_775,h_349/fill/w_408,h_172,al_c,q_85,usm_0.66_1.00_0.01/d1b317_30d85a06c73e4bc7bf0952829a1cddb1~mv1.webp">
 
 <h1 align="center">
 	PORTAFOLIO IV PERIODO
@@ -12,27 +12,38 @@
 
 ------------
 ## Anteportada
-Colegio Santa Catalina de Laboure
+- Colegio Santa Catalina de Laboure
 
 
-Génesis Gabriel Subuyuj Ramírez
+- Génesis Gabriel Subuyuj Ramírez
 
 
-IV Bachillerato en Ciencias y Letras con Orientación en Computación
+- IV Bachillerato en Ciencias y Letras con Orientación en Computación
 
 
-Laboratorio 1
+- Laboratorio 1
 
 
-Profesor Jossue Emmanuel Fuentes
+- Profesor Jossue Emmanuel Fuentes
 
 
-<a href="https://ibb.co/qdVMfh9"><img src="https://i.ibb.co/vHRxGfm/upsPng.png" alt="upsPng" border="0"></a>
+<a href="https://ibb.co/qdVMfh9"><img width="90px" align="center"  src="https://i.ibb.co/vHRxGfm/upsPng.png" alt="upsPng" border="0"></a>
+
+
 ## Índice
+
 - Portada
 - Anteportada
 - Índice
 - Objetivos
+- Documentos
+	- [Portada ERP](https://genesisgab.github.io/Portafolio_IV_Periodo/index "Portada ERP")
+	- [Login](https://genesisgab.github.io/Portafolio_IV_Periodo/login "Login")
+	- [Login 0.2](https://genesisgab.github.io/Portafolio_IV_Periodo/login_vDos "Login 0.2")
+	- [Profile](https://genesisgab.github.io/Portafolio_IV_Periodo/profile "Profile")
+	- [Dashboard](https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard "Dashboard")
+- Objetivos Futuros
+
 
 ------------
 
