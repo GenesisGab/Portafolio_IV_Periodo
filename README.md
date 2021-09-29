@@ -88,9 +88,9 @@ https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard
 
 
 ## Mis objetivos Futuros
-|Organización   |  .... |
+|Organización   | Quiero que en este portafolio mi trabajo cumpla con lo requerido y aplicar al 100% la tecnologia de flex-box |
 | :------------: | :------------: |
-| **Investigación**  |  ...  |
-|**Propósito**   | ...  |
+| **Investigación**  |  Quiero seguir aprendiendo nuevas etiquetas para poder ampliar mis conocimientos |
+|**Propósito**   | Quiero que mi portafolio cumpla con lo requerido para que sea de forma de repaso y asi otras personas puedan guiarse o tomar como base la estructura de mi portafolio  |
 
 
