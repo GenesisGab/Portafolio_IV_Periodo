@@ -29,6 +29,7 @@
 
 <a href="https://ibb.co/qdVMfh9"><img width="90px" align="center"  src="https://i.ibb.co/vHRxGfm/upsPng.png" alt="upsPng" border="0"></a>
 
+------------
 
 ## Índice
 
@@ -88,4 +89,4 @@ Dashboard: https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard
 | **Investigación**  |  Quiero seguir aprendiendo nuevas etiquetas para poder ampliar mis conocimientos |
 |**Propósito**   | Quiero que mi portafolio cumpla con lo requerido para que sea de forma de repaso y asi otras personas puedan guiarse o tomar como base la estructura de mi portafolio  |
 
-
+------------
