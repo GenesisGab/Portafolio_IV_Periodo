@@ -8,7 +8,7 @@
 </h3>
 
 ------------
-<img align="center" src="https://i.pinimg.com/564x/c7/0d/e3/c70de3d4362ac2f12aeb1cd9c57b4246.jpg">
+<img  src="https://i.pinimg.com/564x/c7/0d/e3/c70de3d4362ac2f12aeb1cd9c57b4246.jpg" width=" 1000px">
 
 ------------
 ## Anteportada
@@ -36,13 +36,14 @@
 - Anteportada
 - Índice
 - Objetivos
-- Documentos
-	- [Portada ERP](https://genesisgab.github.io/Portafolio_IV_Periodo/index "Portada ERP")
+- Documentos (Wireframes)
+	- [Splash](https://genesisgab.github.io/Portafolio_IV_Periodo/index "Portada ERP")
 	- [Login](https://genesisgab.github.io/Portafolio_IV_Periodo/login "Login")
 	- [Login 0.2](https://genesisgab.github.io/Portafolio_IV_Periodo/login_vDos "Login 0.2")
-	- [Profile](https://genesisgab.github.io/Portafolio_IV_Periodo/profile "Profile")
 	- [Dashboard](https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard "Dashboard")
+	- [Profile](https://genesisgab.github.io/Portafolio_IV_Periodo/profile "Profile")
 - Objetivos Futuros
+
 
 
 ------------
@@ -57,31 +58,25 @@
 
 ## Documentación
 En este periodo se elaboro una aplicacion para telefono de School ERP,
-donde también le dimos soporte para desktop y tablet.
+donde también se le dió soporte para desktop y tablet.
 
-https://genesisgab.github.io/Portafolio_IV_Periodo/
+<a href="https://ibb.co/w4s4k1s"><img src="https://i.ibb.co/SBrBjpr/school-Erp.png" alt="school-Erp" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
-Portada ERP:
+Portada ERP: https://genesisgab.github.io/Portafolio_IV_Periodo/index
 
-https://genesisgab.github.io/Portafolio_IV_Periodo/index
-
-
-Login:
-
-https://genesisgab.github.io/Portafolio_IV_Periodo/login
+Login: https://genesisgab.github.io/Portafolio_IV_Periodo/login
 
 
-Login 0.2
+Login 0.2 https://genesisgab.github.io/Portafolio_IV_Periodo/login_vDos
 
-https://genesisgab.github.io/Portafolio_IV_Periodo/login_vDos
+------------
 
-Profile:
 
-https://genesisgab.github.io/Portafolio_IV_Periodo/profile
+<a href="https://ibb.co/Q8QbP3v"><img src="https://i.ibb.co/5Y4Mrgh/school-Erp-PARTE2.png" alt="school-Erp-PARTE2" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
-Dashboard:
+Profile: https://genesisgab.github.io/Portafolio_IV_Periodo/profile
 
-https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard
+Dashboard: https://genesisgab.github.io/Portafolio_IV_Periodo/dashboard
 
 
 ------------
