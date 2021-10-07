@@ -9,9 +9,8 @@
 
 ------------
 
-<center>
-<img  src="https://i.pinimg.com/564x/0f/80/f8/0f80f844a7f98ebeb6b862cc16b2212c.jpg" width="30px" >
-</center>
+
+<img  src="https://i.pinimg.com/564x/0f/80/f8/0f80f844a7f98ebeb6b862cc16b2212c.jpg" width="500px" >
 
 ------------
 ## Anteportada
